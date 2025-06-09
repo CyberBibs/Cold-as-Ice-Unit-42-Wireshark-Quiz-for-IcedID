@@ -17,4 +17,11 @@ In this section, I focused on the IcedID scenario, a compelling and intricate ca
 In my investigation of the IcedID scenario using Wireshark, we are equipped with crucial details that will greatly enhance my analysis.
 
 ### Local Area Network (LAN) Details:
+   - LAN segment range: 10.4.19[.]0/24 (10.4.19[.]1 through 10.4.19[.]255)
+   - Domain: boogienights[.]live
+   - Domain controller IP address: 10.4.19[.]19
+   - Domain controller hostname: WIN-GP4JHCK2JMV
+   - LAN segment gateway: 10.4.19[.]1
+   - LAN segment broadcast address: 10.4.19[.]255
+
 
