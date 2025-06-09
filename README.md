@@ -10,3 +10,9 @@ Understanding the risks associated with PCAP files filled with malicious content
 
 When it comes to network analysis, particularly the examination of PCAP files that may contain dangerous data, maintaining a high level of operational security is paramount. Although Wireshark is a powerful instrument for conducting such analysis, it’s important to bear in mind that it does not offer automatic protection against the hidden threats within the data you’re investigating.
 
+## The Scenario: Cold as Ice (IcedID)
+
+In this section, we focus on the IcedID scenario, a compelling and intricate case. IcedID is a type of malware recognized for its proficiency in stealing information, encompassing the acquisition of sensitive data such as passwords, browser history, and cryptocurrency details from compromised systems. It frequently disseminates through deceptive tactics like phishing emails or tainted software downloads. Our goal in this analysis is to examine network traffic related to this malware to discern its actions and pinpoint possible routes of infection.
+
+In my investigation of the IcedID scenario using Wireshark, we are equipped with crucial details that will greatly enhance my analysis.
+
