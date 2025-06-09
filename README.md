@@ -24,4 +24,13 @@ In my investigation of the IcedID scenario using Wireshark, we are equipped with
    - LAN segment gateway: 10.4.19[.]1
    - LAN segment broadcast address: 10.4.19[.]255
 
+## During the course of my analysis, I will address the questions listed on the scenario’s webpage:
+   - What is the date and time in UTC the infection started?
+   - What is the IP address of the infected Windows client?
+   - What is the MAC address of the infected Windows client?
+   - What is the hostname of the infected Windows client?
+   - What is the user account name from the infected Windows host?
+   - Is there any follow-up activity from other malware?
+
+
 
